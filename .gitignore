@@ -77,3 +77,8 @@ debian/files
 
 # Archives
 *.gz
+*.zip
+
+# Misc
+data
+tiny-imagenet-200
