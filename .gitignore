@@ -1,3 +1,11 @@
+# Datasets
+celebA_train*
+cifar_data*
+
+# other repos
+facenet-pytorch
+homework03/models
+
 # node and NPM
 npm-debug.log
 node_modules
@@ -78,6 +86,8 @@ debian/files
 # Archives
 *.gz
 *.zip
+*.pt
+*.ckpt
 
 # Misc
 data
