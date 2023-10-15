@@ -1,6 +1,7 @@
 # Datasets
 celebA_train*
 cifar_data*
+celebA_ir
 
 # other repos
 facenet-pytorch
@@ -76,6 +77,7 @@ docs/tmp*
 
 # OS X garbage
 .DS_Store
+__MACOSX
 
 # Debian things
 debian/reproducible-experiment-platform
